@@ -1,0 +1,93 @@
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+Input Error: Input a integer value between 1-5
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+Input Error: Input a integer value between 1-5
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Input Error: Input a integer value between 1-3
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter the basePoint of maze: 
+Input error: Basepoint coordinates must be integer values.
+
+Enter the basePoint of maze: 
+Input error: Basepoint coordinates must be integer values.
+
+Enter the basePoint of maze: 
+
+Enter the length and width of maze: 
+Input error: Length or width must be positive integer value.
+
+Enter the length and width of maze: 
+Input error: Length or width must be positive integer value.
+
+Enter the length and width of maze: 
+
+Enter the maze structure: 
+
+Basepoint: (10, 0, -1)
+Structure:
+..xx
+x...
+xxxx
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+Input Error: Input a integer value between 1-5
+
+***Building the maze***
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!

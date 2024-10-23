@@ -1,0 +1,140 @@
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+Input Error: Enter a number between 1 and 5 ....
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+Input Error: Enter a number between 1 and 5 ....
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+
+Input Error: Enter a number between 1 and 3 ....
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Enter the basePoint of the maze:
+
+Input Error: Y-coordinate must be one unit above the ground, an ideal y-coordinate would be: 107 ....
+Enter the basePoint of the maze:
+
+Input Error: Y-coordinate must be one unit above the ground, an ideal y-coordinate would be: 65 ....
+Enter the basePoint of the maze:
+Enter the length and width of maze:
+
+Input error: Length and width must be positive odd integer values ....
+Enter the length and width of maze:
+
+Input error: Length and width must be positive odd integer values ....
+Enter the length and width of maze:
+Enter the maze structure:
+
+Maze Exit Error: There should be no corner exits ....
+Maze Error: There should be no adjacent exits ....
+Maze Error: There should be no adjacent exits ....
+Maze Error: There should be no adjacent exits ....
+Maze Error: There should be no adjacent exits ....
+
+Maze Exit Error: There should be 1 exit, there are: 4 exits ....
+Input Error: Maze must have an exit, no corner exits and no adjacent exits ....
+Enter the maze structure:
+
+Maze Exit Error: There should be no corner exits ....
+Maze Error: There should be no adjacent exits ....
+Maze Error: There should be no adjacent exits ....
+Maze Error: There should be no adjacent exits ....
+Maze Error: There should be no adjacent exits ....
+
+Maze Exit Error: There should be 1 exit, there are: 3 exits ....
+Input Error: Maze must have an exit, no corner exits and no adjacent exits ....
+Enter the maze structure:
+
+Maze Exit Error: There should be no corner exits ....
+
+Maze Exit Error: There should be 1 exit, there are: 3 exits ....
+Input Error: Maze must have an exit, no corner exits and no adjacent exits ....
+Enter the maze structure:
+
+Maze Exit Error: There should be no corner exits ....
+
+Maze Exit Error: There should be 1 exit, there are: 3 exits ....
+Input Error: Maze must have an exit, no corner exits and no adjacent exits ....
+
+Input Error: Maze must have a path ....
+Enter the maze structure:
+
+Input Error: Maze must have a path ....
+Enter the maze structure:
+Maze read successfully
+**Printing Maze**
+BasePoint: (10, 65, -1)
+Structure:
+x.xxx
+x...x
+xxxxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+Input Error: Enter a number between 1 and 5 ....
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+The End!

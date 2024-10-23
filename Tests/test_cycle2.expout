@@ -1,0 +1,46 @@
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue:
+Enter the basePoint of the maze:
+Enter the length and width of maze:
+Enter the maze structure:
+Input Error: Maze must not have a cycle ....
+Enter the maze structure:
+Input Error: Maze must not have a cycle ....
+Enter the maze structure:
+Maze read successfully
+**Printing Maze**
+BasePoint: (0, 108, 0)
+Structure:
+xxxxxxx
+....x.x
+x.xxx.x
+x.....x
+xxxxxxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue:
+
+The End!
